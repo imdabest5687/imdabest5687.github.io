@@ -12,3 +12,9 @@
 	margin: 0 auto;
 	cursor: pointer;
 }
+
+div {
+	border: 3px solid blue;
+	position: relative;
+	height: 200px;
+}
