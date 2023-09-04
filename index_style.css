@@ -13,7 +13,7 @@
 	cursor: pointer;
 }
 
-div {
+.centerbutton {
 	border: 3px solid blue;
 	position: relative;
 	height: 200px;
